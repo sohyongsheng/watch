@@ -54,5 +54,8 @@ This is a long press.
 2. Release the button *after* the hold delay. There will be a double
    beep. This confirms the operation as a long press.
 
+### Dual press ###
+
+This presses 2 buttons simultaneously.
 
 
